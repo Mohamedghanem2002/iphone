@@ -238,7 +238,8 @@ nav a:hover {
     }
 
     .icon img {
-        width: 30px;
+        width: 25px;
+        margin: 0;
 
     }
 }
