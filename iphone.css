@@ -235,11 +235,12 @@ nav a:hover {
 
     .icon {
         margin: 0;
+        width: 100%;
+        text-align: center;
     }
 
     .icon img {
-        width: 20px;
-        margin: 0;
-
+        width: 30px;
+        margin-right: 5px;
     }
 }
