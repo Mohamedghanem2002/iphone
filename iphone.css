@@ -45,8 +45,8 @@ ul li a {
     position: relative;
     /*     margin: 200px auto; */
 
-    width: 50px;
-    height: 30px;
+    width: 35px;
+    height: 25px;
     cursor: pointer;
     z-index: 100;
 }
@@ -64,7 +64,7 @@ ul li a {
 }
 
 .menu-icon .two {
-    top: 15px;
+    top: 11px;
 }
 
 .menu-icon .three {
@@ -225,7 +225,7 @@ nav a:hover {
 
     .content .image {
         width: 100%;
-        margin: 50px 0 0;
+        margin: 50px 0 0 0;
     }
 
     .content .image img {
@@ -240,7 +240,7 @@ nav a:hover {
     }
 
     .icon img {
-        width: 30px;
-        margin-right: 5px;
+        width: 40px;
+        margin-right: 10px;
     }
 }
